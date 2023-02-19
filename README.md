@@ -1,4 +1,3 @@
-<div style="text-align: center;">
 
   # Olá! Eu sou Gabriel Bunhak	🙆‍♂
 
@@ -26,8 +25,10 @@ e buscar mais conhecimento no desenvolvimento backend. Atualmente estudo Analise
 
 <br>
 
-## Estatisticas do Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunhakgabriel&show_icons=true&theme=synthwave)
+## Estatisticas do 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunhakgabriel&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunhakgabriel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -42,4 +43,6 @@ e buscar mais conhecimento no desenvolvimento backend. Atualmente estudo Analise
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
+</div
+  
+  
