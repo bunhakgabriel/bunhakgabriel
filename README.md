@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![imagem](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1298,h_510/https://cdn.colegioplanck.com.br/wp-content/uploads/2021/06/Colegio-Planck-Profissao-programador-o-que-faz-esse-profissional-tao-disputado-no-mercado-arte-Autores-Grupo-S2-Marketing-Freepik.jpg)
+![imagem](https://logap.com.br/wp-content/uploads/2021/10/Dicas-para-programadores-1024x325.png)
