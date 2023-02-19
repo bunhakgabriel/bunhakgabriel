@@ -1,4 +1,7 @@
+<div style="text-align: center;">
+
   # Olá! Eu sou Gabriel Bunhak	🙆‍♂
+
 
 <!--
 **bunhakgabriel/bunhakgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +41,5 @@ e buscar mais conhecimento no desenvolvimento backend. Atualmente estudo Analise
 ![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
