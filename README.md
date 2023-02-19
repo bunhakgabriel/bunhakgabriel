@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL3mFzsng7l_v8rkMuK3gDTYqV98RAthioA&usqp=CAU)
+![imagem](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1298,h_510/https://cdn.colegioplanck.com.br/wp-content/uploads/2021/06/Colegio-Planck-Profissao-programador-o-que-faz-esse-profissional-tao-disputado-no-mercado-arte-Autores-Grupo-S2-Marketing-Freepik.jpg)
