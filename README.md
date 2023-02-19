@@ -25,7 +25,7 @@ e buscar mais conhecimento no desenvolvimento backend. Atualmente estudo Analise
 
 <br>
 
-## Estatisticas do 
+## Estatisticas do GitHub
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunhakgabriel&show_icons=true&theme=radical)
