@@ -1,4 +1,4 @@
-### Hi there 👋
+ ### Hi there ! Eu sou Gabriel Bunhak  	🙆‍♂️
 
 <!--
 **bunhakgabriel/bunhakgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL3mFzsng7l_v8rkMuK3gDTYqV98RAthioA&usqp=CAU)
