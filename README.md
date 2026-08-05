@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Estudante de programação, amante de desenvolvimento front-end, atualmente estou estudando a tecnologia JavaScript e futuramente pretendo me aprofundar
-e buscar mais conhecimento no desenvolvimento backend. Atualmente estudo Analise e Desenvolvimento de Sistemas na Faculdade Estácio.
+Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas e com experiência no desenvolvimento de aplicações web e mobile.
+
+Trabalho com o ecossistema JavaScript/TypeScript utilizando tecnologias como React, React Native e Node.js, participando do desenvolvimento de aplicações completas, desde o Front-end até o Back-end.
+
+Atualmente estou aprofundando meus conhecimentos em Node.js, arquitetura de software e desenvolvimento Back-end, sempre buscando criar soluções escaláveis, performáticas e de qualidade.
+
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielbunhak/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-camargo-bunhak-a1751a1b1/)
