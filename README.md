@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | JavaScript • TypeScript • Node.js • React • React Native
 
-Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com aproximadamente 2 anos de experiência no desenvolvimento de aplicações web e mobile.
+Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com mais de 2 anos de experiência no desenvolvimento de aplicações web e mobile.
 
 Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript/TypeScript, participando desde a construção de interfaces modernas até o desenvolvimento de APIs, integrações e regras de negócio no Back-end.
 
